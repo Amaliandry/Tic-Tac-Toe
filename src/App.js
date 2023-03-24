@@ -59,7 +59,7 @@ function Board({ xIsNext, squares, onPlay}) {
       </div>
 
       <div>
-        <p>Sup Cuh</p>
+        <p>WaiYong Noob</p>
       </div>
     </Fragment>
   );
