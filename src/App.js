@@ -57,6 +57,10 @@ function Board({ xIsNext, squares, onPlay}) {
         <Square value={squares[7]} onSquareClick={() => handleClick(7)} />
         <Square value={squares[8]} onSquareClick={() => handleClick(8)} />
       </div>
+
+      <div>
+        <p>Sup Cuh</p>
+      </div>
     </Fragment>
   );
 }
